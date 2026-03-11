@@ -47,6 +47,8 @@ const limiter = rateLimit({
   message: "Too many requests, please try again later",
 });
 
+//"2"
+
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 app.use(cookieParser());
