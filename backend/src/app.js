@@ -23,6 +23,7 @@ const allowedOrigins = [
   "http://localhost:5173",
   "http://localhost:3000",
   "https://mange-wallet-0-1.vercel.app",
+  "https://mange-wallet-0-1-git-main-abs-projects-05ca1b34.vercel.app",
 ];
 
 const corsOptions = {
