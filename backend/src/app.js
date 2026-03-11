@@ -16,6 +16,9 @@ dotenv.config();
 const PORT = process.env.PORT || 4001;
 const app = express();
 
+
+app.set("trust proxy", 1);
+
 const allowedOrigins = [
   "http://localhost:5173",
   "http://localhost:3000",
@@ -39,6 +42,8 @@ const corsOptions = {
 };
 
 app.use(cors(corsOptions));
+app.options("*", cors(corsOptions));
+
 
 // Rate Limiter
 const limiter = rateLimit({
