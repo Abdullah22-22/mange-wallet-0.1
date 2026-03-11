@@ -1,0 +1,56 @@
+.tl-modal-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.6);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 9999;
+  padding: 16px;
+}
+
+.tl-modal-box {
+  background: #fff;
+  width: 100%;
+  max-width: 380px;
+  border-radius: 14px;
+  padding: 18px;
+  text-align: center;
+}
+
+.tl-modal-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.tl-close {
+  border: none;
+  background: transparent;
+  font-size: 22px;
+  cursor: pointer;
+}
+
+.tl-qr {
+  margin: 16px auto;
+  display: flex;
+  justify-content: center;
+}
+
+.tl-text {
+  margin: 8px 0;
+}
+
+.tl-link {
+  display: inline-block;
+  margin-top: 6px;
+  word-break: break-all;
+}
+
+.tl-error {
+  margin-top: 10px;
+  background: #fff5f5;
+  padding: 10px;
+  border-radius: 10px;
+  overflow: auto;
+}

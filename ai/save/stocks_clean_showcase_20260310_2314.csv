@@ -1,0 +1,501 @@
+ticker,company_name,close,price_change_pct,volume,exchange
+TZA,Direxion Small Cap Bear 3X Shares,6.79,-0.44,214351434,NYSE Arca
+NVDA,NVIDIA Corporation,184.77,1.3,178278679,Nasdaq Global Select
+NIO,NIO Inc. American depositary shares each representing one Class A,5.7,8.37,145113672,New York Stock Exchange
+USO,United States Oil Fund,105.86,-1.19,133914598,NYSE Arca
+AAL,American Airlines Group Inc.,11.11,-2.46,128746359,Nasdaq Global Select
+TQQQ,ProShares UltraPro QQQ,49.4,-0.04,113000014,NASDAQ Global Market
+SOXL,Direxion Daily Semiconductor Bull 3x Shares,54.59,2.31,103643453,NYSE Arca
+XLE,SPDR Select Sector Fund - Energy Select Sector,55.6,-0.81,88673516,NYSE Arca
+INTC,Intel Corporation,46.78,2.95,84834986,Nasdaq Global Select
+SPY,SPDR S&P 500,677.18,-0.08,80651435,NYSE Arca
+XLF,SPDR Select Sector Fund - Financial,50.06,-0.54,70767633,NYSE Arca
+LQD,iShares iBoxx $ Investment Grade Corporate Bond,110.06,-0.31,68930401,NYSE Arca
+HYG,iShares iBoxx $ High Yield Corporate Bond,80.04,-0.01,66858936,NYSE Arca
+PLUG,Plug Power Inc.,2.12,-3.2,65104282,NASDAQ Capital Market
+SQQQ,ProShares UltraPro Short QQQ,70.59,0.0,63978007,NASDAQ Global Market
+QQQ,Invesco QQQ Trust Series 1,607.77,-0.0,63309130,NASDAQ Global Market
+NOK,Nokia Corporation Sponsored American Depositary Shares,7.8,-2.19,60766245,New York Stock Exchange
+TSLA,Tesla Inc.,399.235,-0.7,59079142,Nasdaq Global Select
+BBD,Banco Bradesco Sa American Depositary Shares,3.87,1.84,58799599,New York Stock Exchange
+EEM,iShares MSCI Emerging Index Fund,58.68,0.04,55757706,NYSE Arca
+IWM,iShares Russell 2000,253.36,0.16,55353404,NYSE Arca
+SNAP,Snap Inc. Class A,4.91,-4.66,53832588,New York Stock Exchange
+SCO,ProShares UltraShort Bloomberg Crude Oil,10.14,-0.78,52466322,NYSE Arca
+TLT,iShares 20+ Year Treasury Bond ETF,88.28,-0.59,48218854,NASDAQ Global Market
+F,Ford Motor Company,12.24,0.41,47956239,New York Stock Exchange
+WIT,Wipro Limited,2.55,9.91,46465268,New York Stock Exchange
+DNN,Denison Mines Corp (Canada),4.04,4.94,46023307,NYSE American
+UCO,ProShares Ultra Bloomberg Crude Oil,34.26,0.2,44449263,NYSE Arca
+EFA,iShares MSCI EAFE,99.22,-0.52,42998439,NYSE Arca
+OPTT,Ocean Power Technologies Inc.,0.49,22.01,42786201,NASDAQ Capital Market
+PFE,Pfizer Inc.,27.16,1.27,42765729,New York Stock Exchange
+MARA,Marathon Patent Group Inc.,8.57,-1.49,42447203,NASDAQ Capital Market
+T,AT&T Inc.,27.71,0.22,37579550,New York Stock Exchange
+FXI,iShares China Large-Cap,36.59,0.14,37535284,NYSE Arca
+SLV,iShares Silver Trust,80.09,-0.99,36930839,NYSE Arca
+RIG,Transocean Ltd (Switzerland),6.16,0.16,36575263,New York Stock Exchange
+BAC,Bank of America Corporation,48.56,0.58,36346491,New York Stock Exchange
+NFLX,Netflix Inc.,96.94,-0.88,35837778,Nasdaq Global Select
+AMZN,Amazon.com Inc.,214.33,0.07,35447311,Nasdaq Global Select
+IGV,iShares Expanded Tech-Software Sector,85.65,-2.44,35068684,Cboe Global Markets EDGX
+ORCL,Oracle Corporation,149.4,-2.75,34297831,New York Stock Exchange
+IEFA,iShares Core MSCI EAFE,92.6,-0.52,33990378,Cboe Global Markets EDGX
+ITUB,Itau Unibanco Banco Holding SA American Depositary Shares (Each repstg 500 Preferred shares),8.48,1.56,33697462,New York Stock Exchange
+JBLU,JetBlue Airways Corporation,4.41,-0.92,33604504,Nasdaq Global Select
+PBR,Petroleo Brasileiro S.A.- Petrobras,17.99,0.45,32932818,New York Stock Exchange
+MU,Micron Technology Inc.,403.11,2.31,32922160,Nasdaq Global Select
+EWY,iShares Inc MSCI South Korea,130.3,-1.51,32529799,NYSE Arca
+BEAT,BioTelemetry Inc.,1.35,-15.62,32520666,Nasdaq Global Select
+VALE,VALE S.A. American Depositary Shares Each Representing one,15.63,0.9,31452670,New York Stock Exchange
+CCL,Carnival Corporation,26.21,1.2,31450595,New York Stock Exchange
+HPE,Hewlett Packard Enterprise Company,21.1,-4.18,31076528,New York Stock Exchange
+EWZ,iShares Inc MSCI Brazil,37.53,1.19,30630486,NYSE Arca
+BTG,B2Gold Corp (Canada),5.37,0.0,29455277,NYSE American
+RWM,ProShares Short Russell2000,15.98,-0.13,29355857,NYSE Arca
+BTE,Baytex Energy Corp,4.0,2.04,29314359,New York Stock Exchange
+SH,ProShares Short S&P500,36.63,0.08,28906444,NYSE Arca
+AMC,AMC Entertainment Holdings Inc. Class A,1.11,-0.89,28701079,New York Stock Exchange
+KRE,SPDR S&P Regional Banking,64.72,-0.08,28431155,NYSE Arca
+AMD,Advanced Micro Devices Inc.,203.23,0.36,28218372,Nasdaq Global Select
+MSFT,Microsoft Corporation,405.76,-1.04,28062953,Nasdaq Global Select
+KOS,Kosmos Energy Ltd. (DE),2.41,-1.63,27984667,New York Stock Exchange
+AVGO,Broadcom Inc.,342.58,-1.76,27681504,Nasdaq Global Select
+AAPL,Apple Inc.,260.83,1.24,26403306,Nasdaq Global Select
+MRVL,Marvell Technology Group Ltd.,93.3,0.79,26390271,Nasdaq Global Select
+SCHD,Schwab US Dividend Equity,30.9,-0.16,26318765,NYSE Arca
+SAN,Banco Santander S.A. Sponsored ADR (Spain),11.5,0.0,25076690,New York Stock Exchange
+LYG,Lloyds Banking Group Plc American Depositary Shares,5.37,0.0,25015964,New York Stock Exchange
+VEA,Vanguard FTSE Developed Markets,65.97,-0.53,24940507,NYSE Arca
+IJH,iShares Core S&P Mid-Cap,68.57,-0.38,24902308,NYSE Arca
+XLU,SPDR Select Sector Fund - Utilities,46.56,-0.17,24463901,NYSE Arca
+SCHX,Schwab U.S. Large-Cap,26.69,-0.11,24301870,NYSE Arca
+XLK,SPDR Select Sector Fund - Technology,139.76,-0.06,24286055,NYSE Arca
+SCHG,Schwab U.S. Large-Cap Growth,30.82,-0.26,24192220,NYSE Arca
+VG,Vonage Holdings Corp.,11.4,1.97,23902108,New York Stock Exchange
+GOOGL,Alphabet Inc.,307.04,0.07,23146252,Nasdaq Global Select
+OXY,Occidental Petroleum Corporation,53.12,-0.24,23022072,New York Stock Exchange
+BKLN,Invesco Senior Loan,20.51,0.05,22551308,NYSE Arca
+CVE,Cenovus Energy Inc,22.67,-0.57,22343527,New York Stock Exchange
+CSCO,Cisco Systems Inc.,77.7,0.73,22259028,Nasdaq Global Select
+NOW,ServiceNow Inc.,116.61,-3.62,21829960,New York Stock Exchange
+DAL,Delta Air Lines Inc.,59.27,-1.3,21555976,New York Stock Exchange
+GERN,Geron Corporation,1.63,0.62,21201977,Nasdaq Global Select
+HBAN,Huntington Bancshares Incorporated,15.99,-1.24,20673062,Nasdaq Global Select
+IEMG,iShares Core MSCI Emerging Markets,72.11,0.01,20653697,NYSE Arca
+NCLH,Norwegian Cruise Line Holdings Ltd.,20.35,0.35,20536961,New York Stock Exchange
+UAMY,United States Antimony Corporation,11.23,17.47,20500072,NYSE American
+ABEV,Ambev S.A. American Depositary Shares (Each representing 1),3.02,1.0,20498768,New York Stock Exchange
+NVO,Novo Nordisk A/S,38.72,-1.19,19684041,New York Stock Exchange
+CMCSA,Comcast Corporation Class A Common Stock,31.07,0.42,19678627,Nasdaq Global Select
+UAA,Under Armour Inc. Class A,6.68,3.57,19166038,New York Stock Exchange
+RSP,Invesco S&P 500 Equal Weight,197.22,-0.61,19122575,NYSE Arca
+XLB,Materials Select Sector SPDR,49.88,-0.22,19085525,NYSE Arca
+NFE,New Fortress Energy LLC,1.06,-6.19,18990756,Nasdaq Global Select
+XLP,SPDR Select Sector Fund - Consumer Staples,85.72,0.04,18861047,NYSE Arca
+KSS,Kohl's Corporation,14.58,1.43,18824115,New York Stock Exchange
+WMT,Walmart Inc.,125.12,0.73,18749829,New York Stock Exchange
+CLF,Cleveland-Cliffs Inc.,9.54,-0.1,18683674,New York Stock Exchange
+VCIT,Vanguard Intermediate-Term Corporate Bond ETF,83.6,-0.21,18682542,NASDAQ Global Market
+WFC,Wells Fargo & Company,78.3,-0.82,18465590,New York Stock Exchange
+MSTR,MicroStrategy Incorporated,138.46,-2.44,18175046,Nasdaq Global Select
+SLB,Schlumberger N.V.,48.11,2.09,18098896,New York Stock Exchange
+PYPL,PayPal Holdings Inc.,45.02,-1.29,17504181,Nasdaq Global Select
+GDX,VanEck Vectors Gold Miners,103.37,-0.66,17449032,NYSE Arca
+XLV,SPDR Select Sector Fund - Health Care,153.15,-0.82,17168253,NYSE Arca
+FCX,Freeport-McMoRan Inc.,62.4,2.33,16875107,New York Stock Exchange
+WTI,W&T Offshore Inc.,2.69,-10.63,16751460,New York Stock Exchange
+BP,BP p.l.c.,39.94,-1.14,16746607,New York Stock Exchange
+AG,First Majestic Silver Corp. (Canada),26.72,-0.78,16729457,New York Stock Exchange
+XLI,SPDR Select Sector Fund - Industrial,170.02,-0.38,16685946,NYSE Arca
+TNA,Direxion Small Cap Bull 3X Shares,47.75,0.62,16684770,NYSE Arca
+CNC,Centene Corporation,36.4,-14.19,16635093,New York Stock Exchange
+HAL,Halliburton Company,35.34,2.46,16373345,New York Stock Exchange
+UEC,Uranium Energy Corp.,14.48,3.95,16240659,NYSE American
+VZ,Verizon Communications Inc.,50.71,0.8,16207048,New York Stock Exchange
+TTD,The Trade Desk Inc.,27.66,-3.19,16152994,NASDAQ Global Market
+XOM,Exxon Mobil Corporation,148.13,-0.75,16137251,New York Stock Exchange
+HPQ,HP Inc.,18.79,-0.63,16014203,New York Stock Exchange
+INFY,Infosys Limited American Depositary Shares,14.04,-1.4,15778266,New York Stock Exchange
+GLW,Corning Incorporated,136.22,3.19,15670162,New York Stock Exchange
+IOVA,Iovance Biotherapeutics Inc.,5.2,-3.88,15656896,NASDAQ Global Market
+RIOT,Riot Blockchain Inc,14.64,-1.41,15567538,NASDAQ Capital Market
+CDE,Coeur Mining Inc.,23.35,0.69,15483436,New York Stock Exchange
+UAL,United Continental Holdings Inc.,91.1,-2.36,15464984,Nasdaq Global Select
+C,Citigroup Inc.,108.97,0.52,15386326,New York Stock Exchange
+HL,Hecla Mining Company,22.01,1.15,15277991,New York Stock Exchange
+AGNC,AGNC Investment Corp.,10.72,1.13,15274677,Nasdaq Global Select
+KEY,KeyCorp,19.76,0.25,15215806,New York Stock Exchange
+SCHF,Schwab International Equity,25.4,-0.55,15144947,NYSE Arca
+ET,Energy Transfer LP,18.3,-1.19,14591697,New York Stock Exchange
+BOIL,ProShares Ultra Bloomberg Natural Gas,18.23,1.28,14535681,NYSE Arca
+CTRA,Contura Energy Inc.,30.41,-1.39,14530975,New York Stock Exchange
+DVN,Devon Energy Corporation,43.7,-1.75,14482940,New York Stock Exchange
+TDOC,Teladoc Health Inc.,5.57,-7.32,14429715,New York Stock Exchange
+PCG,Pacific Gas & Electric Co.,18.22,0.55,14408336,New York Stock Exchange
+UNG,United States Natural Gas Fund LP,12.27,0.66,14405817,NYSE Arca
+BABA,Alibaba Group Holding Limited,136.85,0.84,14384784,New York Stock Exchange
+GOOG,Alphabet Inc.,306.93,0.34,14317678,Nasdaq Global Select
+VWO,Vanguard FTSE Emerging Markets,55.51,0.22,14007500,NYSE Arca
+MGNX,MacroGenics Inc.,3.43,41.74,13894687,Nasdaq Global Select
+COP,ConocoPhillips,114.15,-1.7,13861273,New York Stock Exchange
+RF,Regions Financial Corporation,26.76,-0.82,13792194,New York Stock Exchange
+PTEN,Patterson-UTI Energy Inc.,9.5,3.6,13786346,Nasdaq Global Select
+AXTI,AXT Inc,44.3,10.69,13725484,Nasdaq Global Select
+BNO,United States Brent Oil Fund LP ETV,43.37,-0.82,13689340,NYSE Arca
+NKE,Nike Inc.,56.08,-1.09,13653240,New York Stock Exchange
+RUN,Sunrun Inc.,12.15,5.65,13527047,Nasdaq Global Select
+SMH,VanEck Vectors Semiconductor,397.33,0.76,13478476,NYSE Arca
+AAOI,Applied Optoelectronics Inc.,120.49,7.48,13472819,NASDAQ Global Market
+CNQ,Canadian Natural Resources Limited,45.72,0.53,13068908,New York Stock Exchange
+EMB,iShares J.P. Morgan USD Emerging Markets Bond ETF,95.95,-0.11,12992403,NASDAQ Global Market
+TSM,Taiwan Semiconductor Manufacturing Company Ltd.,347.09,-0.4,12933625,New York Stock Exchange
+ADT,ADT Inc.,6.65,1.53,12888502,New York Stock Exchange
+EQNR,Equinor ASA,32.44,-0.49,12629842,New York Stock Exchange
+STM,STMicroelectronics N.V.,33.52,-0.45,12467012,New York Stock Exchange
+ERIC,Ericsson,11.3,-3.05,12446529,Nasdaq Global Select
+VNET,21Vianet Group Inc.,11.23,13.43,12347150,Nasdaq Global Select
+CRM,Salesforce.com Inc,194.91,-1.19,12271607,New York Stock Exchange
+CCC,Churchill Capital Corp Class A,5.86,-1.18,12220935,New York Stock Exchange
+GGB,Gerdau S.A.,3.64,0.55,12204591,New York Stock Exchange
+PSLV,Sprott Physical Silver Trust ETV,28.85,-1.1,12017247,NYSE Arca
+CSX,CSX Corporation,40.91,1.01,12008654,Nasdaq Global Select
+SCHB,Schwab U.S. Broad Market,26.09,-0.11,12002379,NYSE Arca
+CMG,Chipotle Mexican Grill Inc.,34.72,-0.86,11997096,New York Stock Exchange
+ZSL,ProShares UltraShort Silver,17.47,2.28,11930294,NYSE Arca
+BSX,Boston Scientific Corporation,69.96,-2.0,11726737,New York Stock Exchange
+DOG,ProShares Short Dow30,23.78,0.0,11701924,NYSE Arca
+XLY,SPDR Select Sector Fund - Consumer Discretionary,114.44,-0.15,11594218,NYSE Arca
+IQ,iQIYI Inc.,1.41,2.92,11553396,Nasdaq Global Select
+SPYG,SPDR Series Trust Portfolio S&P 500 Growth,103.8,0.01,11195605,NYSE Arca
+KHC,The Kraft Heinz Company,23.66,-3.07,11178295,Nasdaq Global Select
+SDOW,UltraPro Short Dow30,32.59,0.03,11175289,NYSE Arca
+JD,JD.com Inc.,27.73,0.51,11097889,Nasdaq Global Select
+B,Barnes Group Inc.,46.14,-1.22,10860666,New York Stock Exchange
+AES,The AES Corporation,14.21,0.14,10702658,New York Stock Exchange
+KMI,Kinder Morgan Inc.,32.96,-0.72,10697865,New York Stock Exchange
+CVX,Chevron Corporation,186.29,-1.24,10641071,New York Stock Exchange
+LYB,LyondellBasell Industries NV Class A (Netherlands),65.61,-0.17,10627338,New York Stock Exchange
+MCHP,Microchip Technology Incorporated,65.33,0.51,10621343,Nasdaq Global Select
+GT,The Goodyear Tire & Rubber Company,7.11,-4.18,10546883,Nasdaq Global Select
+IEF,iShares 7-10 Year Treasury Bond ETF,96.44,-0.26,10543136,NASDAQ Global Market
+QCOM,QUALCOMM Incorporated,135.2,0.37,10435332,Nasdaq Global Select
+LRCX,Lam Research Corporation,215.23,2.0,10323606,Nasdaq Global Select
+EWH,iShares MSCI Hong Kong Index Fund,23.31,-0.04,10313556,NYSE Arca
+WU,Western Union Company (The),9.73,0.0,10169798,New York Stock Exchange
+SPTL,SPDR Portfolio Long Term Treasury,26.74,-0.52,10154161,NYSE Arca
+FITB,Fifth Third Bancorp,46.59,-0.62,10153522,Nasdaq Global Select
+KGC,Kinross Gold Corporation,32.79,-0.67,10137016,New York Stock Exchange
+BE,Bloom Energy Corporation Class A,154.0,2.12,10121564,New York Stock Exchange
+TME,Tencent Music Entertainment Group American Depositary Shares each representing two Class A,13.96,-1.2,10096217,New York Stock Exchange
+ACRS,Aclaris Therapeutics Inc.,3.67,7.31,10039002,Nasdaq Global Select
+XBI,SPDR Series Trust S&P Biotech,127.43,0.58,10028935,NYSE Arca
+ATAI,ATA Inc.,4.14,7.81,9977553,NASDAQ Global Market
+ESPR,Esperion Therapeutics Inc.,2.7,-14.01,9968783,NASDAQ Global Market
+SES,Synthesis Energy Systems Inc.,1.27,5.83,9911432,NASDAQ Capital Market
+UUUU,Energy Fuels Inc (Canada),20.31,0.3,9863693,NYSE American
+PAAS,Pan American Silver Corp.,61.51,-0.85,9847469,Nasdaq Global Select
+ARCC,Ares Capital Corporation,18.49,-1.12,9784020,Nasdaq Global Select
+CPB,Campbell Soup Company,24.68,-2.1,9706718,New York Stock Exchange
+M,Macy's Inc,17.99,1.47,9677886,New York Stock Exchange
+SABR,Sabre Corporation,1.65,2.48,9610537,Nasdaq Global Select
+NGD,New Gold Inc.,11.52,0.61,9543643,NYSE American
+DBO,Invesco DB Oil Fund,18.53,0.49,9479197,NYSE Arca
+BCS,Barclays PLC,22.45,-0.31,9456079,New York Stock Exchange
+XOP,SPDR S&P Oil & Gas Explor & Product,159.0,-0.9,9411966,NYSE Arca
+IJR,iShares Core S&P Small-Cap,124.79,-0.14,9377927,NYSE Arca
+CRSP,CRISPR Therapeutics AG,52.8,-2.11,9373620,NASDAQ Global Market
+ITOT,iShares Core S&P Total U.S. Stock Market,147.83,-0.16,9350993,NYSE Arca
+BAX,Baxter International Inc.,17.46,-2.57,9350608,New York Stock Exchange
+AEO,American Eagle Outfitters Inc.,18.76,2.85,9342726,New York Stock Exchange
+JOB,GEE Group Inc.,0.2251,-1.62,9246068,NYSE American
+VXUS,Vanguard Total International Stock ETF,79.12,-0.33,9237528,NASDAQ Global Market
+VLY,Valley National Bancorp,12.07,0.58,9153592,Nasdaq Global Select
+GLD,SPDR Gold Trust,477.86,-0.39,9153223,NYSE Arca
+HST,Host Hotels & Resorts Inc.,19.25,0.63,9042301,New York Stock Exchange
+SPIB,SPDR Portfolio Intermediate Term Corporate Bond,33.76,-0.21,9006180,NYSE Arca
+USEG,U.S. Energy Corp.,1.08,-0.92,8988431,NASDAQ Capital Market
+HIVE,Aerohive Networks Inc.,2.07,-1.9,8869766,New York Stock Exchange
+JNK,SPDR Bloomberg Barclays High Yield Bond,96.31,-0.04,8854639,NYSE Arca
+BIL,SPDR Bloomberg Barclays 1-3 Month T-Bill,91.46,0.0,8844950,NYSE Arca
+VCLT,Vanguard Long-Term Corporate Bond ETF,75.69,-0.41,8826860,NASDAQ Global Market
+KO,Coca-Cola Company (The),77.88,0.52,8805131,New York Stock Exchange
+CX,Cemex S.A.B. de C.V. Sponsored ADR,10.76,-2.0,8805044,New York Stock Exchange
+LUV,Southwest Airlines Company,42.82,1.04,8793481,New York Stock Exchange
+USB,U.S. Bancorp,51.95,-0.36,8764557,New York Stock Exchange
+EMLC,VanEck Vectors J.P. Morgan EM Local Currency Bond,25.76,0.04,8707246,NYSE Arca
+AGG,iShares Core U.S. Aggregate Bond,100.11,-0.25,8705722,NYSE Arca
+MVIS,MicroVision Inc.,0.5554,1.17,8701297,NASDAQ Global Market
+CAG,ConAgra Brands Inc.,18.08,-2.06,8683856,New York Stock Exchange
+ICLN,iShares S&P Global Clean Energy Index Fund,18.25,0.88,8636628,NASDAQ Global Market
+IYR,iShares U.S. Real Estate,99.12,0.4,8598588,NYSE Arca
+NXE,Nexgen Energy Ltd.,13.0,2.36,8586909,NYSE American
+BND,Vanguard Total Bond Market ETF,74.22,-0.23,8581719,NASDAQ Global Market
+HUN,Huntsman Corporation,12.08,0.5,8526951,New York Stock Exchange
+WDC,Western Digital Corporation,266.22,-0.83,8462610,Nasdaq Global Select
+IAU,ishares Gold Trust,97.85,-0.45,8359519,NYSE Arca
+BA,The Boeing Company,217.76,-2.83,8337102,New York Stock Exchange
+TU,Telus Corporation,13.72,-1.08,8331612,New York Stock Exchange
+ORC,Orchid Island Capital Inc.,7.45,2.05,8288498,New York Stock Exchange
+GOVT,iShares U.S. Treasury Bond,23.08,-0.22,8145973,Cboe Global Markets EDGX
+VFC,V.F. Corporation,16.97,-2.02,8142979,New York Stock Exchange
+ACWI,iShares MSCI ACWI Index Fund,143.05,-0.24,8092977,NASDAQ Global Market
+MOS,Mosaic Company (The),26.48,-0.94,8092103,New York Stock Exchange
+SM,SM Energy Company,24.88,-1.7,8086521,New York Stock Exchange
+CIG,Comp En De Mn Cemig ADS American Depositary Shares,2.29,1.33,8039633,New York Stock Exchange
+FRSH,Papa Murphy's Holdings Inc.,8.0,-4.42,8034640,Nasdaq Global Select
+VT,Vanguard Total World Stock Index,143.22,-0.08,8023939,NYSE Arca
+WEN,Wendy's Company (The),6.98,-2.65,7978609,Nasdaq Global Select
+EXK,Endeavour Silver Corporation (Canada),11.55,-2.04,7960795,New York Stock Exchange
+NEM,Newmont Mining Corporation,118.9,0.75,7924326,New York Stock Exchange
+KDP,Keurig Dr Pepper Inc.,28.04,0.14,7817890,New York Stock Exchange
+COHR,Coherent Inc.,260.64,0.63,7814093,Nasdaq Global Select
+APA,Apache Corporation,31.82,-0.75,7792831,New York Stock Exchange
+VTI,Vanguard Total Stock Market,333.51,-0.16,7761249,NYSE Arca
+PDD,Pinduoduo Inc.,104.86,1.28,7755329,Nasdaq Global Select
+SCHH,Schwab U.S. REIT,22.6,0.27,7633524,NYSE Arca
+FNB,F.N.B. Corporation,16.31,-0.61,7594664,New York Stock Exchange
+IVW,iShares S&P 500 Growth,119.87,0.03,7558056,NYSE Arca
+TRX,Tanzanian Royalty Exploration Corporation,1.87,3.89,7545803,NYSE American
+ASNS,Arsanis Inc.,0.3761,12.84,7534230,NASDAQ Global Market
+XRT,SPDR S&P Retail,82.63,0.02,7513579,NYSE Arca
+VICI,VICI Properties Inc.,29.31,-0.34,7513368,New York Stock Exchange
+ON,ON Semiconductor Corporation,59.59,0.57,7493985,Nasdaq Global Select
+NEE,NextEra Energy Inc.,91.54,-0.19,7473540,New York Stock Exchange
+CELH,Celsius Holdings Inc.,45.03,3.58,7435373,NASDAQ Capital Market
+S,Sprint Corporation,14.14,-1.81,7323386,New York Stock Exchange
+ASM,Avino Silver & Gold Mines Ltd. (Canada),8.21,1.36,7281443,NYSE American
+XLG,Invesco S&P 500 Top 50,57.13,0.02,7276743,NYSE Arca
+GIS,General Mills Inc.,42.28,-1.9,7261249,New York Stock Exchange
+SOXX,iShares PHLX SOX Semiconductor Sector Index Fund,338.81,0.68,7258222,NASDAQ Global Market
+MRNA,Moderna Inc.,54.98,-0.43,7256550,Nasdaq Global Select
+NLY,Annaly Capital Management Inc,22.5,1.08,7245498,New York Stock Exchange
+COTY,Coty Inc. Class A,2.33,-2.51,7243653,New York Stock Exchange
+DUK,Duke Energy Corporation (Holding Company),129.69,0.15,7176284,New York Stock Exchange
+MDLZ,Mondelez International Inc.,56.58,-2.67,7157339,Nasdaq Global Select
+APH,Amphenol Corporation,136.74,0.26,7148611,New York Stock Exchange
+ABT,Abbott Laboratories,110.55,-1.54,7097348,New York Stock Exchange
+UMC,United Microelectronics Corporation (NEW),9.48,-1.35,7092251,New York Stock Exchange
+LITE,Lumentum Holdings Inc.,672.0,-0.44,7082242,Nasdaq Global Select
+CCO,Clear Channel Outdoor Holdings Inc. Class A,2.37,0.0,7070215,New York Stock Exchange
+EXC,Exelon Corporation,49.01,0.22,7049640,New York Stock Exchange
+EVLV,EVINE Live Inc.,5.25,0.0,7017129,Nasdaq Global Select
+LAC,Lithium Americas Corp.,4.69,0.21,7002308,New York Stock Exchange
+SCHW,Charles Schwab Corporation (The),93.17,-1.3,7000913,New York Stock Exchange
+MDT,Medtronic plc.,89.89,-1.45,6959717,New York Stock Exchange
+GM,General Motors Company,74.93,0.12,6958176,New York Stock Exchange
+TEVA,Teva Pharmaceutical Industries Limited American Depositary Shares,31.52,0.45,6940108,New York Stock Exchange
+BX,The Blackstone Group L.P. Representing Limited Partnership Interests,109.96,-0.73,6936604,New York Stock Exchange
+DX,Dynex Capital Inc.,13.6,1.42,6904399,New York Stock Exchange
+SJNK,SPDR Bloomberg Barclays Short Term High Yield Bond,25.06,0.0,6901747,NYSE Arca
+EQT,EQT Corporation,61.83,-0.11,6896653,New York Stock Exchange
+WMB,Williams Companies Inc. (The),73.84,0.98,6860270,New York Stock Exchange
+PANW,Palo Alto Networks Inc.,165.58,0.05,6837186,New York Stock Exchange
+FAST,Fastenal Company,46.3,-0.26,6821927,Nasdaq Global Select
+DELL,Dell Technologies Inc. Class C,143.8,-1.7,6812688,New York Stock Exchange
+JPM,JP Morgan Chase & Co.,288.73,-0.19,6674924,New York Stock Exchange
+URG,Ur-Energy Inc (Canada),1.54,6.94,6669886,NYSE American
+SPLB,SPDR Portfolio Long Term Corporate Bond,22.53,-0.53,6661186,NYSE Arca
+EOG,EOG Resources Inc.,127.89,-1.77,6655415,New York Stock Exchange
+SLS,SELLAS Life Sciences Group Inc.,5.82,-2.35,6599637,NASDAQ Capital Market
+EWA,iShares MSCI Australia Index Fund,28.95,0.03,6508283,NYSE Arca
+TEAM,Atlassian Corporation Plc,78.01,-3.82,6492273,Nasdaq Global Select
+CVS,CVS Health Corporation,76.32,-2.89,6462428,New York Stock Exchange
+MRK,Merck & Company Inc. (new),117.09,-0.13,6461684,New York Stock Exchange
+DIS,The Walt Disney Company,101.32,-0.42,6445900,New York Stock Exchange
+GEVO,Gevo Inc.,2.3,3.6,6436209,NASDAQ Capital Market
+WBS,Webster Financial Corporation,69.08,0.47,6388090,New York Stock Exchange
+CF,CF Industries Holdings Inc.,110.05,-0.14,6386716,New York Stock Exchange
+AEG,AEGON N.V.,7.08,-0.98,6340315,New York Stock Exchange
+VTWO,Vanguard Russell 2000 ETF,102.42,0.11,6276938,NASDAQ Global Market
+TMF,Direxion Daily 20-Yr Treasury Bull 3x Shrs,38.71,-1.65,6266438,NYSE Arca
+BMY,Bristol-Myers Squibb Company,60.13,-0.78,6257596,New York Stock Exchange
+UPS,United Parcel Service Inc.,100.92,0.69,6243827,New York Stock Exchange
+MFG,Mizuho Financial Group Inc. Sponosred ADR (Japan),8.28,0.24,6200052,New York Stock Exchange
+ETH,Ethan Allen Interiors Inc.,19.31,-0.75,6176487,New York Stock Exchange
+DIA,SPDR Dow Jones Industrial Average,477.7,-0.01,6135624,NYSE Arca
+PACB,Pacific Biosciences of California Inc.,1.37,-4.2,6122925,Nasdaq Global Select
+FHN,First Horizon National Corporation,23.0,0.79,6122430,New York Stock Exchange
+AMAT,Applied Materials Inc.,345.88,1.77,6107980,Nasdaq Global Select
+CPRT,Copart Inc.,36.31,-2.99,6101311,Nasdaq Global Select
+UPRO,ProShares UltraPro S&P 500,110.31,-0.31,6098096,NYSE Arca
+BB,BlackBerry Limited,3.45,-1.43,6059481,New York Stock Exchange
+WY,Weyerhaeuser Company,24.18,-0.33,6047161,New York Stock Exchange
+VONG,Vanguard Russell 1000 Growth ETF,116.19,-0.24,6024544,NASDAQ Global Market
+AR,Antero Resources Corporation,37.47,-2.68,6021366,New York Stock Exchange
+MNST,Monster Beverage Corporation,76.7,1.35,5992307,Nasdaq Global Select
+SHOP,Shopify Inc. Class A Subordinate,129.36,-2.86,5972742,New York Stock Exchange
+SPDW,SPDR Portfolio Developed World ex-US,46.95,-0.4,5899443,NYSE Arca
+TXN,Texas Instruments Incorporated,197.46,0.8,5890866,Nasdaq Global Select
+MMM,3M Company,155.25,1.87,5889546,New York Stock Exchange
+SCHV,Schwab U.S. Large-Cap Value,31.09,-0.19,5856298,NYSE Arca
+ARRY,Array BioPharma Inc.,7.07,4.43,5848987,NASDAQ Global Market
+KR,Kroger Company (The),72.24,-1.07,5845192,New York Stock Exchange
+NAT,Nordic American Tankers Limited,5.37,-1.65,5834061,New York Stock Exchange
+FTNT,Fortinet Inc.,84.2,-0.1,5826207,Nasdaq Global Select
+SSO,ProShares Ultra S&P500,56.37,-0.21,5823394,NYSE Arca
+TSCO,Tractor Supply Company,50.34,-0.04,5805608,Nasdaq Global Select
+CL,Colgate-Palmolive Company,92.49,0.08,5774083,New York Stock Exchange
+REI,Ring Energy Inc.,1.43,-0.69,5768124,NYSE American
+PG,Procter & Gamble Company (The),156.01,0.33,5762570,New York Stock Exchange
+DHT,DHT Holdings Inc.,18.63,-0.64,5756187,New York Stock Exchange
+FSM,Fortuna Silver Mines Inc (Canada),11.74,-2.09,5749972,New York Stock Exchange
+FISV,Fiserv Inc.,59.45,-2.53,5733948,Nasdaq Global Select
+NTNX,Nutanix Inc.,38.63,-2.38,5708313,Nasdaq Global Select
+GLL,ProShares UltraShort Gold,16.78,0.9,5665081,NYSE Arca
+NAK,Northern Dynasty Minerals Ltd.,1.42,4.41,5599499,NYSE American
+SATS,EchoStar Corporation,108.5,-1.77,5599470,Nasdaq Global Select
+PBF,PBF Energy Inc. Class A,39.65,1.46,5569933,New York Stock Exchange
+CRH,CRH PLC American Depositary Shares,106.28,-0.29,5554598,New York Stock Exchange
+ILF,iShares Latin America 40,34.93,0.92,5544994,NYSE Arca
+ASX,ASE Technology Holding Co. Ltd. American Depositary Shares (each representing Two),21.71,-0.73,5536891,New York Stock Exchange
+IAG,Iamgold Corporation,22.21,-0.54,5523849,New York Stock Exchange
+FLO,Flowers Foods Inc.,8.66,-1.59,5522658,New York Stock Exchange
+DDD,3D Systems Corporation,2.45,-0.81,5505247,New York Stock Exchange
+QLD,ProShares Ultra QQQ,67.91,-0.07,5463102,NYSE Arca
+NWL,Newell Brands Inc.,4.23,-0.94,5441251,Nasdaq Global Select
+SILJ,ETFMG Prime Junior Silver,35.41,0.77,5428824,NYSE Arca
+ANET,Arista Networks Inc.,139.62,1.17,5421777,New York Stock Exchange
+VGK,Vanguard FTSEEuropean,84.67,-0.7,5420081,NYSE Arca
+TJX,TJX Companies Inc. (The),159.53,1.44,5411498,New York Stock Exchange
+CTSH,Cognizant Technology Solutions Corporation,62.98,-2.43,5405398,Nasdaq Global Select
+TAL,TAL Education Group American Depositary Shares,10.99,3.0,5361417,New York Stock Exchange
+SCHA,Schwab U.S. Small-Cap,29.45,-0.07,5355257,NYSE Arca
+ENPH,Enphase Energy Inc.,43.59,5.35,5286509,NASDAQ Global Market
+IVV,iShares Core S&P 500,680.12,-0.11,5284321,NYSE Arca
+VGSH,Vanguard Short-Term Treasury ETF,58.66,-0.05,5245881,NASDAQ Global Market
+WDAY,Workday Inc.,142.49,-3.05,5226783,Nasdaq Global Select
+EW,Edwards Lifesciences Corporation,85.78,2.13,5210390,New York Stock Exchange
+HDB,HDFC Bank Limited,29.48,-0.81,5194476,New York Stock Exchange
+PEP,PepsiCo Inc.,160.78,0.05,5188683,Nasdaq Global Select
+VTV,Vanguard Value,199.92,-0.13,5176228,NYSE Arca
+ABBV,AbbVie Inc.,227.01,-0.29,5170215,New York Stock Exchange
+ACN,Accenture plc Class A (Ireland),201.63,-3.34,5160318,New York Stock Exchange
+UNH,UnitedHealth Group Incorporated (DE),282.34,-1.75,5148723,New York Stock Exchange
+MO,Altria Group Inc.,67.14,0.37,5148594,New York Stock Exchange
+CGC,Canopy Growth Corporation,1.06,-1.85,5134262,New York Stock Exchange
+VYGR,Voyager Therapeutics Inc.,5.0,21.65,5102120,Nasdaq Global Select
+INVH,Invitation Homes Inc.,25.75,-0.12,5097136,New York Stock Exchange
+TOPS,TOP Ships Inc.,3.6,-11.11,5086274,NASDAQ Capital Market
+VIAV,Viavi Solutions Inc.,29.72,0.92,5067663,Nasdaq Global Select
+VNQ,Vanguard Real Estate,93.62,0.14,5056462,NYSE Arca
+JNJ,Johnson & Johnson,243.71,0.58,5055953,New York Stock Exchange
+FEZ,SPDR DJ Euro STOXX 50 Etf,63.82,-0.79,5046623,NYSE Arca
+SLM,SLM Corporation,19.95,-0.45,5041149,Nasdaq Global Select
+PENN,Penn National Gaming Inc.,14.33,-1.85,5021287,Nasdaq Global Select
+UDOW,ProShares UltraPro Dow30,55.51,-0.05,5019140,NYSE Arca
+MCHI,iShares MSCI China ETF,58.7,0.7,5000965,NASDAQ Global Market
+GSK,GlaxoSmithKline PLC,55.32,-0.38,4989161,New York Stock Exchange
+GPRO,GoPro Inc.,0.75,-8.51,4963397,Nasdaq Global Select
+GILD,Gilead Sciences Inc.,148.56,0.56,4955135,Nasdaq Global Select
+JEF,Jefferies Financial Group Inc.,38.66,0.7,4948508,New York Stock Exchange
+VEU,Vanguard FTSE All World Ex US,77.22,-0.17,4941657,NYSE Arca
+BW,Babcock & Wilcox Enterprises Inc.,14.04,0.72,4939392,New York Stock Exchange
+GME,GameStop Corporation,24.37,-0.61,4897532,New York Stock Exchange
+IWD,iShares Russell 1000 Value,218.07,-0.19,4894348,NYSE Arca
+IWR,iShares Russell Mid-Cap,99.22,-0.67,4858876,NYSE Arca
+GPK,Graphic Packaging Holding Company,10.47,-2.79,4843661,New York Stock Exchange
+IBN,ICICI Bank Limited,28.05,-0.71,4829428,New York Stock Exchange
+SUZ,Suzano Papel e Celulose S.A. American Depositary Shares (each representing two),10.7,0.66,4817410,New York Stock Exchange
+TWO,Two Harbors Investment Corp,9.68,0.41,4783292,New York Stock Exchange
+CAPR,Capricor Therapeutics Inc.,33.4,2.77,4775948,NASDAQ Capital Market
+ALK,Alaska Air Group Inc.,42.34,-1.19,4764041,New York Stock Exchange
+IBKR,"Interactive Brokers Group, Inc.",68.5,1.21,4743329,Investors Exchange
+VCSH,Vanguard Short-Term Corporate Bond ETF,79.605,-0.08,4712977,NASDAQ Global Market
+XME,SPDR S&P Metals & Mining,114.12,1.47,4702216,NYSE Arca
+SPYV,SPDR Series Trust Portfolio S&P 500 Value,57.69,-0.28,4680201,NYSE Arca
+DXD,ProShares UltraShort Dow30,20.85,0.0,4672631,NYSE Arca
+KKR,KKR & Co. Inc. Class A,89.96,-1.63,4670000,New York Stock Exchange
+HRL,Hormel Foods Corporation,23.34,-1.52,4667345,New York Stock Exchange
+CFG,Citizens Financial Group Inc.,58.89,0.84,4656696,New York Stock Exchange
+CCJ,Cameco Corporation,120.08,3.07,4656252,New York Stock Exchange
+MNKD,MannKind Corporation,2.61,-4.04,4651257,NASDAQ Global Market
+SU,Suncor Energy Inc.,57.28,-0.14,4642397,New York Stock Exchange
+OMC,Omnicom Group Inc.,80.98,-3.74,4638444,New York Stock Exchange
+SPSB,SPDR Portfolio Short Term Corporate Bond,30.14,-0.07,4624892,NYSE Arca
+SEDG,SolarEdge Technologies Inc.,38.11,6.24,4595852,Nasdaq Global Select
+OCUL,Ocular Therapeutix Inc.,9.87,-1.5,4584261,NASDAQ Global Market
+ALLO,Allogene Therapeutics Inc.,2.71,7.11,4560970,Nasdaq Global Select
+INTU,Intuit Inc.,453.95,-4.23,4547434,Nasdaq Global Select
+PHYS,Sprott Physical Gold Trust ETV,39.57,-0.25,4521309,NYSE Arca
+SHY,iShares 1-3 Year Treasury Bond ETF,82.72,-0.06,4498405,NASDAQ Global Market
+EBAY,eBay Inc.,90.86,-2.26,4471639,Nasdaq Global Select
+IP,International Paper Company,39.09,1.82,4471409,New York Stock Exchange
+OVID,Ovid Therapeutics Inc.,2.13,-1.84,4461131,Nasdaq Global Select
+HON,Honeywell International Inc.,240.61,1.61,4459207,New York Stock Exchange
+ADBE,Adobe Inc.,275.13,-2.37,4458776,Nasdaq Global Select
+PFF,iShares Preferred and Income Securities ETF,31.15,0.0,4452027,NASDAQ Global Market
+SPMD,SPDR Portfolio Mid Cap,60.19,-0.35,4448091,NYSE Arca
+CWH,Camping World Holdings Inc. Class A Commom Stock,6.94,-6.97,4435684,New York Stock Exchange
+TECS,Direxion Technology Bear 3X Shares,18.35,-0.05,4419796,NYSE Arca
+CZR,Caesars Entertainment Corporation,26.01,1.03,4406853,Nasdaq Global Select
+SE,Sea Limited American Depositary Shares each representing one Class A,89.17,-2.63,4400435,New York Stock Exchange
+USAS,Americas Silver Corporation no par value,8.6,2.87,4399250,NYSE American
+TGT,Target Corporation,120.74,1.05,4390116,New York Stock Exchange
+EDIT,Editas Medicine Inc.,2.64,9.54,4382057,Nasdaq Global Select
+TGB,Taseko Mines Ltd.,7.38,0.82,4381430,NYSE American
+XRAY,DENTSPLY SIRONA Inc.,12.68,-2.01,4359331,Nasdaq Global Select
+COF,Capital One Financial Corporation,184.87,-1.14,4355800,New York Stock Exchange
+ADI,Analog Devices Inc.,318.81,0.03,4348992,Nasdaq Global Select
+FRO,Frontline Ltd.,35.24,-2.27,4343937,New York Stock Exchange
+DOCU,DocuSign Inc.,48.64,-0.1,4343191,Nasdaq Global Select
+CART,Carolina Trust BancShares Inc.,37.98,-3.11,4300244,NASDAQ Capital Market
+CSGP,CoStar Group Inc.,46.33,-2.93,4298941,Nasdaq Global Select
+ADM,Archer-Daniels-Midland Company,69.39,1.31,4290164,New York Stock Exchange
+MUFG,Mitsubishi UFJ Financial Group Inc.,17.45,-0.11,4279716,New York Stock Exchange
+SPEM,SPDR Index Shares Fund Portfolio Emerging Markets,48.27,0.27,4270348,NYSE Arca
+DOC,Physicians Realty Trust of Beneficial Interest,17.4,0.0,4256239,New York Stock Exchange
+PPL,PPL Corporation,37.84,-0.08,4236638,New York Stock Exchange
+FSK,FS KKR Capital Corp.,10.56,-1.95,4229854,New York Stock Exchange
+V,Visa Inc.,314.43,-0.32,4200937,New York Stock Exchange
+SO,Southern Company (The),96.27,-0.54,4191980,New York Stock Exchange
+PAA,Plains All American Pipeline L.P.,21.08,-2.14,4174914,New York Stock Exchange
+EL,Estee Lauder Companies Inc. (The),94.27,2.47,4156716,New York Stock Exchange
+USIG,iShares Broad USD Investment Grade Corporate Bond ETF,51.68,-0.15,4155039,NASDAQ Global Market
+VST,Vistra Energy Corp.,164.4,-0.58,4145308,New York Stock Exchange
+TPH,TRI Pointe Group Inc.,46.4,0.11,4141692,New York Stock Exchange
+GEN,Genesis Healthcare Inc.,21.78,-3.41,4139024,New York Stock Exchange
+FIS,Fidelity National Information Services Inc.,50.53,-1.83,4137936,New York Stock Exchange
+HBM,Hudbay Minerals Inc. (Canada),23.03,0.35,4113079,New York Stock Exchange
+BCE,BCE Inc.,26.39,1.85,4112684,New York Stock Exchange
+ONB,Old National Bancorp,22.12,-0.54,4105175,Nasdaq Global Select
+ING,ING Group N.V.,27.08,-0.26,4081880,New York Stock Exchange
+DB,Deutsche Bank AG,31.78,-1.27,4070181,New York Stock Exchange
+SVM,Silvercorp Metals Inc.,12.31,1.74,4069814,NYSE American
+IBM,International Business Machines Corporation,250.2,-1.21,4066100,New York Stock Exchange
+OKE,ONEOK Inc.,84.68,-1.26,4055828,New York Stock Exchange
+HMY,Harmony Gold Mining Company Limited,18.95,-1.86,4043382,New York Stock Exchange
+SID,Companhia Siderurgica Nacional S.A.,1.41,-0.7,4024448,New York Stock Exchange
+SERV,ServiceMaster Global Holdings Inc.,9.67,0.52,4017085,New York Stock Exchange
+TRIP,TripAdvisor Inc.,10.14,-4.43,4010327,Nasdaq Global Select
+MTCH,Match Group Inc.,30.84,-0.96,4009604,Nasdaq Global Select
+SCHP,Schwab U.S. TIPs,26.82,-0.26,4003792,NYSE Arca
+IVZ,Invesco Ltd,23.97,0.21,3993354,New York Stock Exchange
+KMB,Kimberly-Clark Corporation,101.71,-1.14,3993170,New York Stock Exchange
+JHX,James Hardie Industries plc American Depositary Shares (Ireland),20.85,-2.57,3989414,New York Stock Exchange
+ARR,ARMOUR Residential REIT Inc.,17.8,2.83,3989313,New York Stock Exchange
+SIRI,Sirius XM Holdings Inc.,21.78,0.55,3981936,Nasdaq Global Select
+SYF,Synchrony Financial,65.46,-2.75,3981205,New York Stock Exchange
+RELX,RELX PLC PLC American Depositary Shares (Each representing One),35.19,-1.92,3978204,New York Stock Exchange
+BCRX,BioCryst Pharmaceuticals Inc.,8.75,1.39,3973388,Nasdaq Global Select
+VLO,Valero Energy Corporation,217.02,0.47,3947350,New York Stock Exchange
+AA,Alcoa Corporation,61.31,-0.37,3947058,New York Stock Exchange
+SPXL,Direxion Daily S&P 500 Bull 3X Shares,210.31,-0.3,3934408,NYSE Arca
+O,Realty Income Corporation,64.88,0.19,3924042,New York Stock Exchange
+IGSB,iShares Short-Term Corporate Bond ETF,52.81,0.02,3918025,NASDAQ Global Market
+ORLY,O'Reilly Automotive Inc.,94.71,0.33,3911043,Nasdaq Global Select
+STNE,StoneCo Ltd.,14.09,0.86,3902730,Nasdaq Global Select
+AMKR,Amkor Technology Inc.,43.94,2.44,3889852,Nasdaq Global Select
+GSG,iShares GSCI Commodity-Indexed Trust Fund,29.4,-0.54,3886533,NYSE Arca
+VNOM,Viper Energy Partners LP,43.07,-1.55,3875852,Nasdaq Global Select
+AL,Air Lease Corporation Class A,64.66,-0.29,3875322,New York Stock Exchange
+CUK,Carnival Plc ADS ADS,26.17,1.2,3875019,New York Stock Exchange
+SFIX,Stitch Fix Inc.,3.465,6.29,3861187,Nasdaq Global Select
+NWSA,News Corporation,24.03,-1.92,3849854,Nasdaq Global Select
+UBS,UBS Group AG Registered,38.83,-1.52,3840871,New York Stock Exchange
+RCKT,Rocket Pharmaceuticals Inc.,5.3,2.51,3828678,NASDAQ Global Market
+PSTG,Pure Storage Inc. Class A,61.04,-3.65,3810827,New York Stock Exchange
+VGIT,Vanguard Intermediate-Term Treasury ETF,59.97,-0.22,3810768,NASDAQ Global Market
+BHVN,Biohaven Pharmaceutical Holding Company Ltd.,10.27,0.29,3780060,New York Stock Exchange
+IWF,iShares Russell 1000 Growth,451.37,-0.2,3775924,NYSE Arca
+EWC,iShares MSCI Canada Index Fund,56.7,0.12,3775396,NYSE Arca

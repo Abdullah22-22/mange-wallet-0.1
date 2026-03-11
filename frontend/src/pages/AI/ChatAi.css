@@ -1,0 +1,403 @@
+.ai-page {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  padding: 24px 12px;
+  box-sizing: border-box;
+}
+
+.ai-shell {
+  width: 100%;
+  max-width: 860px;
+  min-height: calc(100vh - 48px);
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  border-radius: 14px;
+  overflow: hidden;
+  background: #fff;
+  display: flex;
+  flex-direction: column;
+}
+
+.ai-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 14px 16px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+  background: #fafafa;
+}
+
+.ai-title {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  min-width: 0;
+}
+
+.ai-title h2 {
+  margin: 0;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.ai-title p {
+  margin: 0;
+  font-size: 12px;
+  opacity: 0.7;
+  line-height: 1.4;
+}
+
+.ai-controls {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.ai-select {
+  height: 34px;
+  padding: 0 10px;
+  border-radius: 10px;
+  border: 1px solid rgba(0, 0, 0, 0.12);
+  background: #fff;
+  font-size: 13px;
+  outline: none;
+  max-width: 100%;
+}
+
+.ai-chat {
+  flex: 1;
+  padding: 18px 14px;
+  background: #ffffff;
+  overflow-y: auto;
+  overflow-x: hidden;
+  min-height: 280px;
+}
+
+.ai-actions {
+  display: flex;
+  gap: 8px;
+  padding: 10px 14px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.06);
+  background: #fafafa;
+  flex-wrap: wrap;
+}
+
+.ai-action-btn {
+  min-height: 32px;
+  padding: 8px 14px;
+  border-radius: 10px;
+  border: 1px solid rgba(0, 0, 0, 0.12);
+  background: #fff;
+  font-size: 13px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.15s;
+  white-space: nowrap;
+}
+
+.ai-action-btn:hover:not(:disabled) {
+  background: #f3f4f6;
+}
+
+.ai-action-btn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.ai-bubble.typing {
+  opacity: 0.6;
+  font-style: italic;
+}
+
+.ai-bubble-row {
+  display: flex;
+  margin: 10px 0;
+  width: 100%;
+}
+
+.ai-bubble-row.user {
+  justify-content: flex-end;
+}
+
+.ai-bubble-row.ai {
+  justify-content: flex-start;
+}
+
+.ai-bubble {
+  max-width: 78%;
+  padding: 12px;
+  border-radius: 14px;
+  line-height: 1.5;
+  font-size: 14px;
+  white-space: pre-wrap;
+  word-break: break-word;
+  overflow-wrap: anywhere;
+  box-sizing: border-box;
+}
+
+.ai-bubble.user {
+  background: #0f172a;
+  color: #fff;
+  border-bottom-right-radius: 6px;
+}
+
+.ai-bubble.ai {
+  background: #f3f4f6;
+  color: #111827;
+  border-bottom-left-radius: 6px;
+  border: 1px solid rgba(0, 0, 0, 0.06);
+}
+
+.ai-meta {
+  font-size: 11px;
+  opacity: 0.6;
+  margin-top: 6px;
+}
+
+.ai-composer {
+  border-top: 1px solid rgba(0, 0, 0, 0.08);
+  padding: 12px;
+  background: #fafafa;
+}
+
+.ai-composer-box {
+  display: flex;
+  gap: 10px;
+  align-items: flex-end;
+  padding: 10px;
+  border-radius: 14px;
+  border: 1px solid rgba(0, 0, 0, 0.12);
+  background: #fff;
+}
+
+.ai-textarea {
+  flex: 1;
+  resize: none;
+  border: none;
+  outline: none;
+  font-size: 14px;
+  line-height: 1.5;
+  min-height: 42px;
+  max-height: 140px;
+  width: 100%;
+  background: transparent;
+}
+
+.ai-send {
+  height: 38px;
+  padding: 0 14px;
+  border-radius: 12px;
+  border: none;
+  background: #111827;
+  color: #fff;
+  font-weight: 700;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+
+.ai-send:disabled {
+  opacity: 0.55;
+  cursor: not-allowed;
+}
+
+.ai-consent {
+  padding: 18px;
+}
+
+.ai-consent-card {
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 14px;
+  padding: 16px;
+  background: #fff;
+}
+
+.ai-consent-card h3 {
+  margin: 0 0 8px;
+  font-size: 16px;
+}
+
+.ai-consent-card p {
+  margin: 0 0 12px;
+  opacity: 0.8;
+  font-size: 13px;
+  line-height: 1.5;
+}
+
+.ai-consent-actions {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.ai-btn {
+  min-height: 36px;
+  padding: 0 14px;
+  border-radius: 12px;
+  border: 1px solid rgba(0, 0, 0, 0.12);
+  background: #fff;
+  cursor: pointer;
+  font-weight: 700;
+}
+
+.ai-btn.primary {
+  background: #111827;
+  color: #fff;
+  border: none;
+}
+
+/* Tablet */
+@media (max-width: 768px) {
+  .ai-page {
+    padding: 16px 10px;
+  }
+
+  .ai-shell {
+    min-height: calc(100vh - 32px);
+    border-radius: 12px;
+  }
+
+  .ai-header {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 12px 14px;
+  }
+
+  .ai-controls {
+    width: 100%;
+    justify-content: flex-start;
+  }
+
+  .ai-actions {
+    padding: 10px 12px;
+  }
+
+  .ai-action-btn {
+    flex: 1 1 calc(50% - 8px);
+    text-align: center;
+  }
+
+  .ai-chat {
+    padding: 14px 12px;
+  }
+
+  .ai-bubble {
+    max-width: 86%;
+    font-size: 13.5px;
+  }
+
+  .ai-composer {
+    padding: 10px;
+  }
+}
+
+/* Mobile */
+@media (max-width: 520px) {
+  .ai-page {
+    padding: 0;
+  }
+
+  .ai-shell {
+    min-height: 100vh;
+    max-width: 100%;
+    border-radius: 0;
+    border-left: none;
+    border-right: none;
+  }
+
+  .ai-header {
+    padding: 12px;
+    gap: 8px;
+  }
+
+  .ai-title h2 {
+    font-size: 15px;
+  }
+
+  .ai-title p {
+    font-size: 11.5px;
+  }
+
+  .ai-actions {
+    padding: 8px 10px;
+    gap: 8px;
+  }
+
+  .ai-action-btn {
+    flex: 1 1 100%;
+    width: 100%;
+    min-height: 38px;
+  }
+
+  .ai-chat {
+    padding: 12px 10px;
+    min-height: 220px;
+  }
+
+  .ai-bubble {
+    max-width: 92%;
+    padding: 10px 11px;
+    font-size: 13px;
+  }
+
+  .ai-composer {
+    padding: 10px;
+  }
+
+  .ai-composer-box {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 8px;
+    padding: 10px;
+  }
+
+  .ai-textarea {
+    min-height: 44px;
+    max-height: 120px;
+  }
+
+  .ai-send {
+    width: 100%;
+    height: 40px;
+  }
+
+  .ai-consent {
+    padding: 12px;
+  }
+
+  .ai-consent-card {
+    padding: 14px;
+  }
+
+  .ai-consent-actions {
+    flex-direction: column;
+  }
+
+  .ai-btn {
+    width: 100%;
+  }
+}
+
+/* Very small phones */
+@media (max-width: 360px) {
+  .ai-title h2 {
+    font-size: 14px;
+  }
+
+  .ai-title p {
+    font-size: 11px;
+  }
+
+  .ai-bubble {
+    max-width: 96%;
+    font-size: 12.5px;
+  }
+
+  .ai-action-btn,
+  .ai-btn,
+  .ai-send {
+    font-size: 12px;
+  }
+}

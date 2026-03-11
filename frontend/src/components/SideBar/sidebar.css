@@ -1,0 +1,72 @@
+.sidebar {
+  width: 70px;
+  background: #111827;
+  color: white;
+  height: 100vh;
+  transition: width 0.3s ease;
+  padding-top: 8px;
+  box-sizing: border-box;
+  text-decoration: none;
+  border-right: 1px solid #16dbcb17;
+}
+
+.sidebar:hover {
+  width: 150px;
+}
+
+.logo {
+  text-align: center;
+  margin-bottom: 30px;
+  font-weight: bold;
+}
+
+
+.menu-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 12px 16px;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+
+.menu-item-button {
+  width: 100%;
+  border: none;
+  background: transparent;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 12px 16px;
+  cursor: pointer;
+}
+.menu-item:hover {
+  background: #1f2937;
+}
+
+.icon {
+  font-size: 20px;
+  min-width: 40px;
+}
+
+.text {
+  opacity: 0;
+  transition: opacity 0.2s ease;
+}
+
+.sidebar:hover .text {
+  opacity: 1;
+}
+.menu-item .icon {
+  color: white;
+}
+.menu-item .text {
+  color: white;
+  opacity: 0;
+  transition: opacity 0.2s ease;
+}
+
+
+

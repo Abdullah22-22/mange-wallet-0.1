@@ -1,0 +1,171 @@
+.transactions {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+
+.t-box {
+  border-radius: 18px;
+  background: rgba(255,255,255,0.05);
+  padding: 18px;
+}
+
+.t-box-top {
+  min-height: 140px;
+}
+
+.t-box-bottom {
+  min-height: 420px;
+}
+
+/* ===== Accounts top ===== */
+.accounts-wrap {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+}
+
+.profile-card {
+  min-width: 240px;
+  background: rgba(255,255,255,0.08);
+  border-radius: 12px;
+  padding: 14px;
+}
+
+.profile-name {
+  font-weight: 700;
+  font-size: 14px;
+}
+
+.profile-mask {
+  margin-top: 8px;
+  opacity: 0.8;
+  font-size: 12px;
+}
+
+.accounts-row {
+  display: flex;
+  gap: 14px;
+  overflow-x: auto;
+  padding-bottom: 6px;
+  flex: 1;
+}
+
+.acc-card {
+  min-width: 190px;
+  height: 72px;
+  background: #fff;
+  border: 2px solid transparent;
+  border-radius: 12px;
+  padding: 10px 12px;
+  cursor: pointer;
+  text-align: left;
+}
+
+.acc-card--selected {
+  border-color: #111;
+}
+
+.acc-title {
+  font-weight: 800;
+  font-size: 12px;
+  letter-spacing: 0.2px;
+}
+
+.acc-meta {
+  margin-top: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  opacity: 0.8;
+  font-size: 12px;
+}
+
+.accounts-hint,
+.accounts-error {
+  align-self: center;
+  opacity: 0.8;
+  font-size: 12px;
+  padding: 0 8px;
+}
+
+.tx-wrap {
+  width: 100%;
+  color: #ffffff;
+}
+
+.tx-header {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  margin-bottom: 12px;
+}
+
+.tx-title {
+  font-size: 28px;
+  font-weight: 900;
+}
+
+.tx-subtitle {
+  opacity: 0.75;
+  font-size: 13px;
+}
+
+.tx-table-wrap {
+  border-radius: 12px;
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid rgba(255,255,255,0.08);
+  overflow: hidden;
+  color: #ffffff;
+}
+
+.tx-loading {
+  padding: 14px;
+  opacity: 0.85;
+}
+
+.tx-empty {
+  padding: 18px;
+  opacity: 0.9;
+}
+
+.tx-empty-title {
+  font-weight: 900;
+}
+
+.tx-empty-sub {
+  margin-top: 6px;
+  opacity: 0.8;
+}
+
+.tx-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.tx-table thead th {
+  text-align: left;
+  font-size: 12px;
+  opacity: 0.8;
+  padding: 12px 14px;
+  border-bottom: 1px solid rgba(255,255,255,0.08);
+}
+
+.tx-table tbody {
+  display: block;
+  max-height: 320px; 
+  overflow-y: auto;
+}
+
+.tx-table thead,
+.tx-table tbody tr {
+  display: table;
+  width: 100%;
+  table-layout: fixed;
+}
+
+.tx-table tbody td {
+  padding: 12px 14px;
+  border-bottom: 1px solid rgba(255,255,255,0.06);
+  font-size: 13px;
+}

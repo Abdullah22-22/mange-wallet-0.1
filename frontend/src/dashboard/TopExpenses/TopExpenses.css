@@ -1,0 +1,82 @@
+.top-expenses-container {
+  background:
+		radial-gradient(520px 240px at 25% 0%, rgba(174, 236, 239, 0.16), transparent 60%),
+		radial-gradient(520px 240px at 75% 0%, rgba(201, 163, 255, 0.14), transparent 62%),
+		linear-gradient(180deg, rgba(22, 24, 34, 0.96), rgba(14, 16, 24, 0.96));
+  color: #ffffff;
+  padding: 14px;
+  border-radius: 12px;
+  width: 98%;
+}
+
+.top-expenses-container h2 {
+  margin-bottom: 10px !important;
+  font-size: 16px !important;
+}
+
+.expense-header,
+.expense-row {
+  display: grid;
+  grid-template-columns: 28px 1fr 2fr 56px;
+  align-items: center;
+  gap: 10px;
+}
+
+.expense-header{
+  color: #9ca3af;
+  font-size: 12px;
+  padding-bottom: 8px;
+  margin-bottom: 10px;
+}
+
+.expense-row {
+ padding: 8px 0;
+ font-size: 13px;
+}
+
+.rank {
+  color: #9ca3af;
+  font-weight: bold;
+}
+
+.category-name {
+  font-weight: 600;
+}
+
+.progress-bar-bg {
+  background-color: #3f414d;
+  height: 5px;
+  border-radius: 10px;
+  margin-right: 0;
+}
+
+.progress-fill {
+  height: 100%;
+  border-radius: 10px;
+}
+
+.fill-food {
+  background-color: #eab308;
+}
+
+.fill-transport {
+  background-color: #2dd4bf;
+}
+
+.fill-entertainment {
+  background-color: #3b82f6;
+}
+
+.fill-subscriptions {
+  background-color: #a855f7;
+}
+
+.percent-badge {
+  background-color: rgba(63, 65, 77, 0.5);
+  border: 1px solid #3f414d;
+  padding: 4px 12px;
+  border-radius: 20px;
+  text-align: center;
+  font-size: 0.85rem;
+  font-weight: bold;
+}

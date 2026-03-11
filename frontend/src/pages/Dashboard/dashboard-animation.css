@@ -1,0 +1,36 @@
+/* Dark overlay over the entire screen to focus on the animation */
+.dashboard-animation-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: rgba(15, 23, 42, 0.85); /* Dark modern background */
+  backdrop-filter: blur(10px); /* Blur the background content */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+}
+
+/* Container box for the chart */
+.chart-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: rgba(255, 255, 255, 0.03);
+  padding: 40px;
+  border-radius: 24px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  box-shadow: 0 0 50px rgba(74, 222, 128, 0.15); /* Green glow effect */
+}
+
+/* Text styles */
+.loading-text {
+  margin-top: 24px;
+  color: #f8fafc;
+  font-family: inherit;
+  font-size: 1.1rem;
+  font-weight: 500;
+  letter-spacing: 0.5px;
+}
