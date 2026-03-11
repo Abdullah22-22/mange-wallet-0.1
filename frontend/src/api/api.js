@@ -5,11 +5,11 @@ import axios from "axios";
   Axios API Instance
   ======================================
 */
+
 const api = axios.create({
-  baseURL: "/api",
+  baseURL: "https://manage-wallet-api.onrender.com/api",
   withCredentials: true,
 });
-
 
 
 /* ======================================
