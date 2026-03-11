@@ -7,7 +7,7 @@ import axios from "axios";
 */
 
 const api = axios.create({
-  baseURL: "https://manage-wallet-api.onrender.com/api",
+  baseURL: "https://mange-wallet-0-1.onrender.com/api",
   withCredentials: true,
 });
 
